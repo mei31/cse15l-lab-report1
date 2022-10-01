@@ -22,7 +22,7 @@ In order to **log into an account on ieng6**:
 4) To move files over the client to the remote server's directory, we use the `scp` command to copy the file, then write the file we want to copy, followed by the account we want to copy it to.
 
 ![](ss3.png)
-![](ss4.png)
+![](ss4.png) 
 
 5) SSH keys can be used to `ssh` or `scp` from the client to the server without entering the password. To do this we must first create a SSH key by: 
    * Writing `ssh-keygen` in the terminal.
